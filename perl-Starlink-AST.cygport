@@ -1,0 +1,11 @@
+CPAN_AUTHOR="tjenness"
+inherit perl
+
+NAME="perl-Starlink-AST"
+VERSION=1.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl interface for Starlink's AST library"
+DESCRIPTION="This module provides a Perl interface to Starlink's AST library
+and 3 pluggable graphics backends that can be used in conjunction with the AST
+library."
