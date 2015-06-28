@@ -2,7 +2,7 @@ CPAN_AUTHOR="tjenness"
 inherit perl
 
 NAME="perl-Starlink-AST"
-VERSION=1.02
+VERSION=1.05
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl interface for Starlink's AST library"
